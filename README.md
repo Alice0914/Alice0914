@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alice Kim
 
-🧠 **Agentic AI Data Scientist | Builder of Reliable, Cost-Efficient & Production-Ready AI Systems**  
+🧠 **Builder of Reliable, Cost-Efficient & Production-Ready AI Systems**  
 ⚙️ Multi-Agent Systems · Interpretability · RL · LLM Training  
 🔍 Curious about what’s *inside* the black box  
 🚀 Driven to build AI that survives real-world complexity
