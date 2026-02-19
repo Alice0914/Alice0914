@@ -44,8 +44,8 @@ I don't treat models as magic. I treat them as systems that can be **inspected, 
 <!-- LINKEDIN-POST:START -->
 | | Title | Platform |
 |---|---|---|
-| 📌 | [𝗪𝗲𝗲𝗸𝗲𝗻𝗱 𝗔𝗜 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗕𝘂𝗶𝗹𝗱𝗲𝗿 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝟯: 𝗠𝘂𝗹𝘁𝗶-𝗠𝗼𝗱𝗲𝗹 𝗧𝗶𝗲𝗿𝗲𝗱 𝗦𝗰𝗼𝗿𝗶𝗻𝗴](https://www.linkedin.com/posts/alice-k-31049b165_agenticai-llm-multimodel-ugcPost-7429742085429211136-VU-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
-| 📌 | [𝗪𝗲𝗲𝗸𝗲𝗻𝗱 𝗔𝗜 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗕𝘂𝗶𝗹𝗱𝗲𝗿 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝟮: 4-Stage Event Verification System](https://www.linkedin.com/posts/alice-k-31049b165_ai-llm-agenticai-activity-7426801698092003328-FGul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
+| 📌 | [Weekend AI Product Builder Challenge 3: Multi-Model Tiered Scoring](https://www.linkedin.com/posts/alice-k-31049b165_agenticai-llm-multimodel-ugcPost-7429742085429211136-VU-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
+| 📌 | [Weekend AI Product Builder Challenge 2: 4-Stage Event Verification System](https://www.linkedin.com/posts/alice-k-31049b165_ai-llm-agenticai-activity-7426801698092003328-FGul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
 | 📌 | [RL for Agents: Lessons from Production](https://YOUR_SUBSTACK.substack.com) | Substack |
 | 📌 | [The Hidden Costs of Agentic Systems](https://YOUR_SUBSTACK.substack.com) | Substack |
 <!-- LINKEDIN-POST:END -->
