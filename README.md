@@ -47,28 +47,26 @@ I build in public, question assumptions, and iterate fast.
 
 # Hi, I'm [Your Name] 👋
 
-### Agentic AI System Builder · AI Product Engineer
+### Builder of Reliable, Cost-Efficient & Production-Ready AI Systems
 
 *Designing intelligence that ships — not just demos*
 
 <br/>
 
 <!-- Social Buttons -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-k-31049b165/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://YOUR_SUBSTACK.substack.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧭 Who I Am
 
 I build **Agentic AI systems and AI products** across the full intelligence stack:
-
 `pre-training` · `fine-tuning` · `reinforcement learning` · `agentic systems` · `evaluation`
 
 I don't treat models as magic. I treat them as systems that can be **inspected, stressed, and improved**.
-
 <br/>
 
 **What I care about most:**
@@ -92,8 +90,8 @@ I don't treat models as magic. I treat them as systems that can be **inspected, 
 <!-- LINKEDIN-POST:START -->
 | | Title | Platform |
 |---|---|---|
-| 📌 | [How I Built a Cost-Efficient Multi-Agent Pipeline](https://linkedin.com/in/YOUR_LINKEDIN) | LinkedIn |
-| 📌 | [Why Evaluation is the Most Underrated Part of AI Development](https://linkedin.com/in/YOUR_LINKEDIN) | LinkedIn |
+| 📌 | [𝗪𝗲𝗲𝗸𝗲𝗻𝗱 𝗔𝗜 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗕𝘂𝗶𝗹𝗱𝗲𝗿 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝟯: 𝗠𝘂𝗹𝘁𝗶-𝗠𝗼𝗱𝗲𝗹 𝗧𝗶𝗲𝗿𝗲𝗱 𝗦𝗰𝗼𝗿𝗶𝗻𝗴](https://www.linkedin.com/posts/alice-k-31049b165_agenticai-llm-multimodel-ugcPost-7429742085429211136-VU-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
+| 📌 | [𝗪𝗲𝗲𝗸𝗲𝗻𝗱 𝗔𝗜 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗕𝘂𝗶𝗹𝗱𝗲𝗿 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝟮: 4-Stage Event Verification System](https://www.linkedin.com/posts/alice-k-31049b165_ai-llm-agenticai-activity-7426801698092003328-FGul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
 | 📌 | [RL for Agents: Lessons from Production](https://YOUR_SUBSTACK.substack.com) | Substack |
 | 📌 | [The Hidden Costs of Agentic Systems](https://YOUR_SUBSTACK.substack.com) | Substack |
 <!-- LINKEDIN-POST:END -->
