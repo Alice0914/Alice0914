@@ -5,7 +5,7 @@
 
 ### Builder of Reliable, Cost-Efficient & Production-Ready AI Systems
 
-*Designing intelligence that ships — not just demos*
+*Curious About AI, Driven to Build*
 
 <br/>
 
