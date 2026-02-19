@@ -45,7 +45,7 @@ I build in public, question assumptions, and iterate fast.
 <!-- Header -->
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Alice Kim👋
 
 ### Builder of Reliable, Cost-Efficient & Production-Ready AI Systems
 
@@ -64,6 +64,7 @@ I build in public, question assumptions, and iterate fast.
 ## 🧭 Who I Am
 
 I build **Agentic AI systems and AI products** across the full intelligence stack:
+
 `pre-training` · `fine-tuning` · `reinforcement learning` · `agentic systems` · `evaluation`
 
 I don't treat models as magic. I treat them as systems that can be **inspected, stressed, and improved**.
@@ -76,11 +77,7 @@ I don't treat models as magic. I treat them as systems that can be **inspected, 
 - 🔬 **Agent design, evaluation & training** — and how these choices drive real-world reliability
 
 > **Good AI is not only intelligent — it's affordable, debuggable, and production-ready.**
-
 <br/>
-
-📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Substack](https://YOUR_SUBSTACK.substack.com)
-
 ✨ **A Fun Fact:** I enjoy breaking models — because whatever breaks in analysis would've broken far worse in production. I also genuinely enjoy exploring unfamiliar ideas and going deep on new things.
 
 ---
@@ -95,8 +92,6 @@ I don't treat models as magic. I treat them as systems that can be **inspected, 
 | 📌 | [RL for Agents: Lessons from Production](https://YOUR_SUBSTACK.substack.com) | Substack |
 | 📌 | [The Hidden Costs of Agentic Systems](https://YOUR_SUBSTACK.substack.com) | Substack |
 <!-- LINKEDIN-POST:END -->
-
-> 💡 *Replace the table rows above with your actual post titles and URLs. You can automate this with GitHub Actions — see note below.*
 
 ---
 
