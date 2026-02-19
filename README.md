@@ -34,6 +34,7 @@ I don't treat models as magic. I treat them as systems that can be **inspected, 
 
 > **Good AI is not only intelligent — it's affordable, debuggable, and production-ready.**
 <br/>
+
 ✨ **A Fun Fact:** I enjoy breaking models — because whatever breaks in analysis would've broken far worse in production. I also genuinely enjoy exploring unfamiliar ideas and going deep on new things.
 
 ---
