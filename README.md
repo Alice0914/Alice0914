@@ -23,9 +23,9 @@ I build **Agentic AI systems and AI products** across the full intelligence stac
 
 `Multi/Hybrid/Basic RAG` · `pre-training` · `fine-tuning` · `reinforcement learning` · `agentic systems` · `evaluation`
 
-I don't treat models as magic. I treat them as systems that can be **inspected, stressed, and improved**.
+I treat them as systems that can be **inspected, rigorously evaluated, stress-tested, and optimized for interpretability, reliability, and cost-efficiency**.
 <br/>
-
+<!--
 **What I care about most:**
 
 - 🤖 **Deployable multi-agent systems** — not just research demos
@@ -36,7 +36,7 @@ I don't treat models as magic. I treat them as systems that can be **inspected, 
 <br/>
 
 ✨ **A Fun Fact:** I enjoy breaking models — because whatever breaks in analysis would've broken far worse in production. I also genuinely enjoy exploring unfamiliar ideas and going deep on new things.
-
+-->
 ---
 
 ## ✍️ Recent Writing
