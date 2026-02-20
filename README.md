@@ -11,7 +11,7 @@
 
 <!-- Social Buttons -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-k-31049b165/)
-#[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://aliceaiworld.substack.com/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://aliceaiworld.substack.com/)
 
 </div>
 
