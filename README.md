@@ -39,17 +39,20 @@ I treat them as systems that can be **inspected, rigorously evaluated, stress-te
 -->
 ---
 
-## ✍️ Recent Writing
+## 🚀 Side Projects
+Here are some of the practical applications and tools I've been building:
 
-<!-- LINKEDIN-POST:START -->
-| | Title | Platform |
-|---|---|---|
-| 📌 | [Weekend AI Product Builder Challenge 3: Multi-Model Tiered Scoring](https://www.linkedin.com/posts/alice-k-31049b165_agenticai-llm-multimodel-ugcPost-7429742085429211136-VU-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
-| 📌 | [Weekend AI Product Builder Challenge 2: 4-Stage Event Verification System](https://www.linkedin.com/posts/alice-k-31049b165_ai-llm-agenticai-activity-7426801698092003328-FGul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
-| 📌 | [RL for Agents: Lessons from Production](https://YOUR_SUBSTACK.substack.com) | Substack |
-| 📌 | [The Hidden Costs of Agentic Systems](https://YOUR_SUBSTACK.substack.com) | Substack |
-<!-- LINKEDIN-POST:END -->
+* **[Financial LLM Evaluator](Link):** An evaluation framework benchmarking LLMs on industry-specific tasks like Numerical Grounding and Text-to-SQL.
+* **[Daily Planner App](Link):** A productivity tool featuring block scheduling and automated Google Calendar integration.
+* **[AI News Pipeline](Link):** An automated news summarization pipeline utilizing GitHub Actions and multi-model verification.
 
+## 📚 Study & Research
+Deep dives into architectures, algorithms, and concepts I am currently exploring:
+
+* **[Agentic-AI-and-RAG](Link):** Implementations and study notes on Multi-Agent architectures and Retrieval-Augmented Generation.
+* **[LLM-Mechanistic-Interpretability](Link):** Research on the mechanistic origins of personas in small language models (like the MBTI Transformer).
+* **[Reinforcement-Learning](Link):** Hands-on practice and implementations of RL algorithms (PPO, MPO, Actor-Critic).\
+  
 ---
 
 ## 🛠 Tech Stack
@@ -64,20 +67,16 @@ I treat them as systems that can be **inspected, rigorously evaluated, stress-te
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
+## ✍️ Recent Writing
 
-## 🚀 Side Projects
-Here are some of the practical applications and tools I've been building:
-
-* **[Financial LLM Evaluator](Link):** An evaluation framework benchmarking LLMs on industry-specific tasks like Numerical Grounding and Text-to-SQL.
-* **[Daily Planner App](Link):** A productivity tool featuring block scheduling and automated Google Calendar integration.
-* **[AI News Pipeline](Link):** An automated news summarization pipeline utilizing GitHub Actions and multi-model verification.
-
-## 📚 Study & Research
-Deep dives into architectures, algorithms, and concepts I am currently exploring:
-
-* **[Agentic-AI-and-RAG](Link):** Implementations and study notes on Multi-Agent architectures and Retrieval-Augmented Generation.
-* **[LLM-Mechanistic-Interpretability](Link):** Research on the mechanistic origins of personas in small language models (like the MBTI Transformer).
-* **[Reinforcement-Learning](Link):** Hands-on practice and implementations of RL algorithms (PPO, MPO, Actor-Critic).
+<!-- LINKEDIN-POST:START -->
+| | Title | Platform |
+|---|---|---|
+| 📌 | [Weekend AI Product Builder Challenge 3: Multi-Model Tiered Scoring](https://www.linkedin.com/posts/alice-k-31049b165_agenticai-llm-multimodel-ugcPost-7429742085429211136-VU-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
+| 📌 | [Weekend AI Product Builder Challenge 2: 4-Stage Event Verification System](https://www.linkedin.com/posts/alice-k-31049b165_ai-llm-agenticai-activity-7426801698092003328-FGul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
+| 📌 | [RL for Agents: Lessons from Production](https://YOUR_SUBSTACK.substack.com) | Substack |
+| 📌 | [The Hidden Costs of Agentic Systems](https://YOUR_SUBSTACK.substack.com) | Substack |
+<!-- LINKEDIN-POST:END -->
 
 <div align="center">
 <sub>Building AI that works in the real world, not just in notebooks.</sub>
