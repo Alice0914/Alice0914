@@ -57,12 +57,26 @@ Deep dives into architectures, algorithms, and concepts I am currently exploring
 
 ## 🛠 Tech Stack
 
+### 💻 Languages & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+### 🧠 AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-E83E8C?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-2E8B57?style=flat-square)
+![Multi Agents](https://img.shields.io/badge/Multi_Agents-8A2BE2?style=flat-square)
+
+### ⚙️ LLM & NLP
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=flat-square)
+![Tokenization](https://img.shields.io/badge/Tokenization-008080?style=flat-square)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-B22222?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### ☁️ Cloud & Ops
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
