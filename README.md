@@ -42,7 +42,7 @@ I treat them as systems that can be **inspected, rigorously evaluated, stress-te
 ## 🚀 Side Projects
 Here are some of the practical applications and tools I've been building:
 
-* **[Financial LLM Evaluator](Link):** An evaluation framework benchmarking LLMs on industry-specific tasks like Numerical Grounding and Text-to-SQL.
+* **[LLM Evaluator](Link):** An evaluation framework benchmarking LLMs on industry-specific tasks like Numerical Grounding and Text-to-SQL.
 * **[Daily Planner App](Link):** A productivity tool featuring block scheduling and automated Google Calendar integration.
 * **[EcoMatch Interiors](https://github.com/Alice0914/ecoMatch_interiors_gemini-app-group-project/tree/master):** A collaboratively built, Gemini-powered eco-friendly interior matching application, covering the full development lifecycle from ideation to implementation.
 
