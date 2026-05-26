@@ -51,7 +51,7 @@ Here are some of the practical applications and tools I've been building:
 ## 📚 Study & Research
 Deep dives into architectures, algorithms, and concepts I am currently exploring:
 
-* **[LLM-Mechanistic-Interpretability](Link):** Research on the mechanistic origins of personas in small language models (like the MBTI Transformer).
+* **[LLM-Mechanistic-Interpretability](https://github.com/Alice0914/mechanistic-persona-probing):**  A from-scratch GPT pre-training + linear-probing study that asks where MBTI lives inside a Transformer, using a [PERSONA]-token control across 17M and 100M models.
 * **[Hybrid Human/AI Preference-Tuned Project](https://github.com/Alice0914/gemma4_scam-sentinel):** A customized hybrid RLHF/RLAIF weight-level optimization loop — converts user feedback into preference pairs, trains a new LoRA adapter with DPO, and only promotes the model when it passes a 300-sample evaluation gate.\
   
 ---
