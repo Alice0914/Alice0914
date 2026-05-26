@@ -42,7 +42,8 @@ I treat them as systems that can be **inspected, rigorously evaluated, stress-te
 ## 🚀 Side Projects
 Here are some of the practical applications and tools I've been building:
 
-* **[LLM Evaluator](Link):** An evaluation framework benchmarking LLMs on industry-specific tasks like Numerical Grounding and Text-to-SQL.
+* **[AI News Summary](https://github.com/Alice0914/ai_one_minute_trend):** An AI-powered multi-agent news app that finds, ranks, summarizes, and instantly formats the most important AI news into share-ready bilingual (English/Korean) posts in under 60 seconds.
+* **[AliceBot](https://github.com/Alice0914/alice-agentic-chatbot/tree/main):** An AI-powered RAG mentoring assistant that transforms my career experience, study curriculum, and AI engineering knowledge into an always-available learning companion for developers and career changers.
 * **[Daily Planner App](Link):** A productivity tool featuring block scheduling and automated Google Calendar integration.
 * **[EcoMatch Interiors](https://github.com/Alice0914/ecoMatch_interiors_gemini-app-group-project/tree/master):** A collaboratively built, Gemini-powered eco-friendly interior matching application, covering the full development lifecycle from ideation to implementation.
 
