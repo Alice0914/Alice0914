@@ -42,9 +42,10 @@ I treat them as systems that can be **inspected, rigorously evaluated, stress-te
 ## 🚀 Side Projects
 Here are some of the practical applications and tools I've been building:
 
+* **[Scam Sentinel](https://github.com/Alice0914/gemma4_scam-sentinel):** An on-device fine-tuned Gemma 4 E2B that detects scams across SMS, email, voice calls, and MMS images, and takes over the whole phone screen when risk is high — so the user stops before they panic-click.
 * **[AI News Summary](https://github.com/Alice0914/alice_ai_news_summery):** An AI-powered multi-agent news app that finds, ranks, summarizes, and instantly formats the most important AI news into share-ready bilingual (English/Korean) posts in under 60 seconds.
 * **[AliceBot](https://github.com/Alice0914/alice-agentic-chatbot/tree/main):** An AI-powered RAG mentoring assistant that transforms my career experience, study curriculum, and AI engineering knowledge into an always-available learning companion for developers and career changers.
-* **[Daily Planner App](Link):** A productivity tool featuring block scheduling and automated Google Calendar integration.
+* **[Smart Planner AI App](Link):** A productivity tool featuring block scheduling and automated Google Calendar integration.
 * **[EcoMatch Interiors](https://github.com/Alice0914/ecoMatch_interiors_gemini-app-group-project/tree/master):** A collaboratively built, Gemini-powered eco-friendly interior matching application, covering the full development lifecycle from ideation to implementation.
 
 ## 📚 Study & Research
