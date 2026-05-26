@@ -89,8 +89,6 @@ Deep dives into architectures, algorithms, and concepts I am currently exploring
 |---|---|---|
 | 📌 | [Weekend AI Product Builder Challenge 3: Multi-Model Tiered Scoring](https://www.linkedin.com/posts/alice-k-31049b165_agenticai-llm-multimodel-ugcPost-7429742085429211136-VU-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
 | 📌 | [Weekend AI Product Builder Challenge 2: 4-Stage Event Verification System](https://www.linkedin.com/posts/alice-k-31049b165_ai-llm-agenticai-activity-7426801698092003328-FGul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdnpPwB1DS-eIJwH12UN9f0rhDtT4XrKI0) | LinkedIn |
-| 📌 | [RL for Agents: Lessons from Production](https://YOUR_SUBSTACK.substack.com) | Substack |
-| 📌 | [The Hidden Costs of Agentic Systems](https://YOUR_SUBSTACK.substack.com) | Substack |
 <!-- LINKEDIN-POST:END -->
 
 <div align="center">
